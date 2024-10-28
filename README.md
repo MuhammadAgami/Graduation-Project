@@ -2,4 +2,4 @@
 
 This poster describes the project.
 
-![Project Poster](images/poster.jpg)
+<img src="https://github.com/MuhammadAgami/Graduation-Project/blob/main/poster.jpg">
